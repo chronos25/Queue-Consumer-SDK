@@ -1,0 +1,21 @@
+{
+  "name": "queue-consumer",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chronos25/Queue-Consumer-SDK"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "console-stamp":"3.1.2",
+    "sqs-consumer": "^8.1.5"
+  },
+  "author": "Ritik R",
+  "license": "ISC"
+}
